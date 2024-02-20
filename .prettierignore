@@ -1,1 +1,7 @@
+# Apps
+/**/.next/
+
+# Packages
+/**/dist/
+
 pnpm-lock.yaml
