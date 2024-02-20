@@ -19,6 +19,7 @@
   },
   "scripts": {
     "public": "pnpm --filter public",
+    "common": "pnpm --filter common",
     "lint": "eslint .",
     "format": "prettier --write .",
     "prepare": "husky"
