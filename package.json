@@ -1,0 +1,16 @@
+{
+  "name": "monorepo-example",
+  "author": "Kim JaeSeok",
+  "version": "0.0.1",
+  "keywords": [
+    "monorepo",
+    "pnpm",
+    "typescript"
+  ],
+  "engines": {
+    "node": ">=21.6.2",
+    "pnpm": ">=8.15.3"
+  },
+  "scripts": {},
+  "license": "MIT"
+}
